@@ -14,7 +14,7 @@
 
 <!-- TOML-COURSES-START -->
 
-## 创新创业实践活动
+## 社会实践活动
 <!-- TOML-COURSE: code="" name="社会实践活动" -->
 
 ### 活动内容
@@ -85,5 +85,3 @@
 更多内容可以前往[端云协同物联网开发实践-具体lab内容](https://ohiot.p.cs-lab.top/)中查看。
 
 > 文 / [离谱](https://github.com/LiPu-jpg)，2025-08
-
-
